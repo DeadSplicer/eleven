@@ -20,7 +20,7 @@
     text-align: center;
     font-size: 60;
     margin: 10px;
-    padding-bottom: 7px;
+    padding-bottom: 30px;
   }
   h4{
     font-family: 'Josefin Sans', sans-serif;
@@ -33,7 +33,7 @@
     text-align: center;
     font-size: 60;
     margin: 15px;
-    color: rgba(0, 0, 0, 0.3);
+    color: rgba(0, 0, 0, 0.13);
   }
   h6{
     font-family: 'Josefin Sans', sans-serif;
@@ -74,6 +74,17 @@
       border-left-color: transparent;
       border-bottom-color: gray;
       margin-bottom: 500px;
+    }
+    .box-five{
+      margin-top: 300px;
+      margin-bottom: 88px;
+      border-style: solid;
+      opacity: .5;
+      border-bottom-color: transparent;
+      border-right-color: transparent;
+      border-left-color: transparent;
+      border-top-color: gray;
+      padding-bottom: 0px;
     }
 
     #footer{
