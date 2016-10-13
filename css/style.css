@@ -38,10 +38,11 @@
   h6{
     font-family: 'Josefin Sans', sans-serif;
     text-align: left;
-    font-size: 42;
+    font-size: 40;
     margin: 5px;
     color: gray;
   }
+
     .box-one{
       border-style: solid;
       opacity: 40%;
