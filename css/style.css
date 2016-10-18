@@ -36,13 +36,9 @@
     color: rgba(0, 0, 0, 0.13);
   }
   h6{
-    font-family: 'Farsan', cursive;
+    font-family: 'Raleway', sans-serif;
     text-align: left;
-<<<<<<< HEAD
-    font-size: 20;
-=======
-    font-size: 40px;
->>>>>>> origin/gh-pages
+    font-size: 35px;
     margin: 5px;
     color: gray;
   }
