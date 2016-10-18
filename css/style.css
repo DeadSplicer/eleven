@@ -46,6 +46,12 @@
     margin: 5px;
     color: gray;
   }
+  p{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    margin: auto;
+    font-size: 40px;
+  }
 
     .box-one{
       border-style: solid;
@@ -117,6 +123,7 @@
       display: inline-block;
       margin: 4px 2px;
       cursor: pointer;
+      color: rgba(0, 0, 0, 0.23);
     }
     .button-two:hover{
       background-color: #000000;
