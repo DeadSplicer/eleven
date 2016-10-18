@@ -79,7 +79,7 @@
     }
     .box-five{
       margin-top: 300px;
-      margin-bottom: 88px;
+      margin-bottom: 55px;
       border-style: solid;
       opacity: .5;
       border-bottom-color: transparent;
@@ -92,7 +92,7 @@
       background-color: #ffffff;
       border: none;
       color: black;
-      padding: 2px 128px;
+      padding: 7px 128px;
       text-align: center;
       text-decoration: none;
       display: inline-block;
@@ -108,7 +108,7 @@
       text-align: center;
       position: fixed;
       left: auto;
-      height: 100px;
+      height: 80px;
       bottom: 0px;
       margin: 0px;
     }
