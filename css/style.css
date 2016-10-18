@@ -6,42 +6,47 @@
   h1{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 100;
+    font-size: 100px;
     margin: 15px;
   }
   h2{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 60;
+    font-size: 60px;
     margin: 15px;
   }
   h3{
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    font-size: 60;
+    font-size: 60px;
     margin: 10px;
-    padding-bottom: 7px;
+    padding-bottom: 30px;
   }
   h4{
     font-family: 'Josefin Sans', sans-serif;
     text-align: left;
-    font-size: 60;
+    font-size: 60px;
     margin: 15px;
   }
   h5{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 60;
+    font-size: 60px;
     margin: 15px;
-    color: rgba(0, 0, 0, 0.3);
+    color: rgba(0, 0, 0, 0.13);
   }
   h6{
     font-family: 'Farsan', cursive;
     text-align: left;
+<<<<<<< HEAD
     font-size: 20;
+=======
+    font-size: 40px;
+>>>>>>> origin/gh-pages
     margin: 5px;
     color: gray;
   }
+
     .box-one{
       border-style: solid;
       opacity: 40%;
@@ -61,6 +66,7 @@
       padding-top: 0px;
     }
     .box-three{
+      text-align: center;
       border-style: hidden;
       border-width: 0px;
       padding-top: 10px;
@@ -75,12 +81,53 @@
       border-bottom-color: gray;
       margin-bottom: 500px;
     }
+    .box-five{
+      margin-top: 300px;
+      margin-bottom: 55px;
+      border-style: solid;
+      opacity: .5;
+      border-bottom-color: transparent;
+      border-right-color: transparent;
+      border-left-color: transparent;
+      border-top-color: gray;
+      padding-bottom: 0px;
+    }
+    .button{
+      background-color: #ffffff;
+      border: none;
+      color: black;
+      padding: 7px 128px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .button:hover{
+      background-color: #000000;
+      color: white;
+    }
+    .button-two{
+      background-color: #ffffff;
+      border: none;
+      color: black;
+      padding: 7px 28px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .button-two:hover{
+      background-color: #000000;
+      color: white;
+    }
 
     #footer{
       text-align: center;
       position: fixed;
       left: auto;
-      height: 100px;
+      height: 80px;
       bottom: 0px;
       margin: 0px;
     }
