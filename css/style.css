@@ -103,6 +103,21 @@
       background-color: #000000;
       color: white;
     }
+    .button-two{
+      background-color: #ffffff;
+      border: none;
+      color: black;
+      padding: 7px 28px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .button-two:hover{
+      background-color: #000000;
+      color: white;
+    }
 
     #footer{
       text-align: center;
