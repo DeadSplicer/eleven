@@ -6,39 +6,39 @@
   h1{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 100;
+    font-size: 100px;
     margin: 15px;
   }
   h2{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 60;
+    font-size: 60px;
     margin: 15px;
   }
   h3{
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    font-size: 60;
+    font-size: 60px;
     margin: 10px;
     padding-bottom: 30px;
   }
   h4{
     font-family: 'Josefin Sans', sans-serif;
     text-align: left;
-    font-size: 60;
+    font-size: 60px;
     margin: 15px;
   }
   h5{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 60;
+    font-size: 60px;
     margin: 15px;
     color: rgba(0, 0, 0, 0.13);
   }
   h6{
     font-family: 'Josefin Sans', sans-serif;
     text-align: left;
-    font-size: 40;
+    font-size: 40px;
     margin: 5px;
     color: gray;
   }
