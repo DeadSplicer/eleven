@@ -115,7 +115,7 @@
       color: black;
       padding: 7px 28px;
       text-align: center;
-      text-decoration: none;
+      text-decoration: underline;
       display: inline-block;
       margin: 4px 2px;
       cursor: pointer;
