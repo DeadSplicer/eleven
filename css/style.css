@@ -3,6 +3,9 @@
     margin: 4px;
     border-width: 2px;
   }
+  body{
+    background-color: #F2F2F2;
+  }
   h1{
     font-family: 'Raleway', sans-serif;
     text-align: center;
@@ -95,7 +98,7 @@
       padding-bottom: 0px;
     }
     .button{
-      background-color: #ffffff;
+      background-color: #f2f2f2;
       border: none;
       color: black;
       padding: 7px 128px;
@@ -110,7 +113,7 @@
       color: white;
     }
     .button-two{
-      background-color: #ffffff;
+      background-color: #f2f2f2;
       border: none;
       color: black;
       padding: 7px 28px;
